@@ -4,6 +4,8 @@
 ![alltime](https://github.com/brandonchow1997/spider-music163/blob/master/alltime.png)
 # 本周听歌排行
 ![weektime](https://github.com/brandonchow1997/spider-music163/blob/master/weektime.png)
+# 歌词爬取
+![lyric](https://github.com/brandonchow1997/spider-music163/blob/master/lyric.png)
 # 全部歌单
 ![playlist](https://github.com/brandonchow1997/spider-music163/blob/master/playlist.png)
 # 歌单中的歌曲
